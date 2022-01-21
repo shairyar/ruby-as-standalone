@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    appsignal (3.0.20)
+      rack
+    rack (2.2.3)
+
+PLATFORMS
+  x86_64-darwin-19
+  x86_64-darwin-20
+
+DEPENDENCIES
+  appsignal
+
+BUNDLED WITH
+   2.3.4
